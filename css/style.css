@@ -290,14 +290,11 @@ section.bg-top{
   gap: 2rem;
 }
 .info-trabalho-wrap .wrap-img{
-  width: 600px;
+  width: 500px;
   margin: 2rem auto;
 }
 .info-trabalho-wrap .wrap-img img{
   width: 100%;
-}
-.container-texto{
-  width:50%;
 }
 
 .container-texto h2{
@@ -404,7 +401,8 @@ footer .footer-wrap form input{
 
   /*INFO TRABALHO*/
   .info-trabalho .container .container-wrap{
-    flex-wrap:wrap;
+    flex-direction:column;
+    gap:2rem;
   }
 
 }

@@ -401,8 +401,7 @@ footer .footer-wrap form input{
 
   /*INFO TRABALHO*/
   .info-trabalho .container .container-wrap{
-    flex-direction: column;
-    gap: 2rem;
+    flex-wrap:wrap;
   }
 
 }

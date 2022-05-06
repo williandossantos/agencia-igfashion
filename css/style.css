@@ -296,6 +296,9 @@ section.bg-top{
 .info-trabalho-wrap .wrap-img img{
   width: 100%;
 }
+.container-texto{
+  width:50%;
+}
 
 .container-texto h2{
   padding: 1rem 0;
